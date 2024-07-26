@@ -121,7 +121,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Dynamcs & Powerapps Developer",
+    title: "Dynamics & Powerapps Developer",
     company_name: "Queue Associates",
     icon: QueueAssociates,
     iconBg: "#383E56",

@@ -22,6 +22,24 @@ const Hero = () => {
             I Develop Microsoft Dynamics 365 Customizations,{" "}
             <br className="sm:block hidden" /> Web Applications, and Video Games
           </p>
+          <a href="/CSJ_Resume.pdf" download>
+            <button
+              type="submit"
+              className=" relative bg-tertiary mt-5 py-3 px-8 mr-5 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary rounded border border-purple-500 hover:shadow-lg hover:bg-purple-500"
+              style={{ zIndex: "500" }}
+            >
+              Download My Resume
+            </button>
+          </a>
+          <a href="https://www.linkedin.com/in/chris-schack-jr/">
+            <button
+              type="button"
+              className=" relative  bg-tertiary mt-5 py-3 px-8 rounded-xl outline-none w-fit border text-white font-bold shadow-md shadow-primary rounded border border-blue-500 hover:shadow-lg hover:bg-blue-500"
+              style={{ zIndex: "500" }}
+            >
+              Connect With Me On LinkedIn
+            </button>
+          </a>
         </div>
       </div>
 
