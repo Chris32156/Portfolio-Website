@@ -230,7 +230,7 @@ const projects = [
   {
     name: "Rebounding Resilience",
     description:
-      "Web game where players control a bunny on a quest to obtain a golden carrot, designed to be completed in 5-15 minutes. Features challenging platforming levels, various enemies, and mechanics that require players to persevere through failure. Developed for the 2021 Games for Change Student Challenge Competition, winning the Game Accessibility Challenge in NYC. <a>https://chris32156.itch.io/rebounding-resilience</a>",
+      "Web game where players control a bunny on a quest to obtain a golden carrot, designed to be completed in 5-15 minutes. Features challenging platforming levels, various enemies, and mechanics that require players to persevere through failure. Developed for the 2021 Games for Change Student Challenge Competition, winning the Game Accessibility Challenge in NYC.",
     tags: [
       {
         name: "Unity",
