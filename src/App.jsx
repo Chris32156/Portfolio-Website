@@ -1,6 +1,17 @@
-import { BrowserRouter } from "react-router-dom"
+import { BrowserRouter } from "react-router-dom";
 
-import {About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas} from './components'
+import {
+  About,
+  Contact,
+  Experience,
+  Feedbacks,
+  Hero,
+  Navbar,
+  Tech,
+  Works,
+  StarsCanvas,
+} from "./components";
+import Stars from "./components/canvas/Stars";
 
 const App = () => {
   return (
@@ -14,11 +25,12 @@ const App = () => {
         <Experience />
         <Tech />
         <Works />
-        <Feedbacks />
-
+        {/*<Feedbacks /> */}
+        <Contact />
+        <Stars />
       </div>
     </BrowserRouter>
-  )
-  }
+  );
+};
 
-export default App
+export default App;
