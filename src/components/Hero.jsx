@@ -31,7 +31,10 @@ const Hero = () => {
               Download My Resume
             </button>
           </a>
-          <a href="https://www.linkedin.com/in/chris-schack-jr/">
+          <a
+            href="https://www.linkedin.com/in/chris-schack-jr/"
+            target="_blank"
+          >
             <button
               type="button"
               className=" relative  bg-tertiary mt-5 py-3 px-8 rounded-xl outline-none w-fit border text-white font-bold shadow-md shadow-primary rounded border border-blue-500 hover:shadow-lg hover:bg-blue-500"
