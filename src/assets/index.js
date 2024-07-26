@@ -33,6 +33,7 @@ import tripguide from "./tripguide.png";
 import LSM from "./LSM.png";
 import RR from "./RR.png";
 import QAManager from "./QAManager.png";
+import ItchIo from "./ItchIo.png";
 
 export {
   logo,
@@ -68,4 +69,5 @@ export {
   LSM,
   RR,
   QAManager,
+  ItchIo,
 };
